@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [project.scripts]
-run-project="myTestPackage:main"
+run-project="myTestPackage.main:main"
 
 [tool.setuptools_scm]
 
