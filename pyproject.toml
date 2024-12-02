@@ -1,0 +1,24 @@
+[build-system]
+requires=["setuptools>=64", "setuptools-scm>=8"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "myTestPackage"
+dynamic = ["version"]
+authors = [{name = "Khang", email = "khangluong2004@gmail.com"}]
+description = "A small example package"
+requires-python = ">=3.7"
+dependencies = [
+    "numpy",
+    "art"
+]
+
+[project.scripts]
+run-project="myTestPackage:main"
+
+[tool.setuptools_scm]
+
+
+
+
+

@@ -1,0 +1,15 @@
+pyproject.toml
+setup.cfg
+setup.py
+myTestPackage/__init__.py
+myTestPackage/main.py
+myTestPackage.egg-info/PKG-INFO
+myTestPackage.egg-info/SOURCES.txt
+myTestPackage.egg-info/dependency_links.txt
+myTestPackage.egg-info/entry_points.txt
+myTestPackage.egg-info/requires.txt
+myTestPackage.egg-info/top_level.txt
+myTestPackage/add/__init__.py
+myTestPackage/add/add.py
+myTestPackage/mult/__init__.py
+myTestPackage/mult/mult.py
