@@ -7,6 +7,6 @@ class MultVect:
     
     def mult(self, second: list):
         self.initial *= np.array(second)
-        tprint(self.initial, font='random')
+        tprint(str(self.initial), font='random')
 
 

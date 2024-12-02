@@ -1,2 +1,2 @@
 [console_scripts]
-run-project = myTestPackage:main
+run-project = myTestPackage.main:main

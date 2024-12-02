@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "myTestPackage"
-dynamic = ["version"]
+version = "0.2.1"
 authors = [{name = "Khang", email = "khangluong2004@gmail.com"}]
 description = "A small example package"
 requires-python = ">=3.7"
