@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: myTestPackage
-Version: 0.1.dev0+d20241202
+Version: 0.0.0
 Summary: A small example package
 Author-email: Khang <khangluong2004@gmail.com>
 Requires-Python: >=3.7

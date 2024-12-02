@@ -1,5 +1,5 @@
-from add import AddVect
-from mult import MultVect
+from .add.add import AddVect
+from .mult.mult import MultVect
 
 def main():
     addObj = AddVect([1, 2, 3])
